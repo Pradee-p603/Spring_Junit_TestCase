@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\rays software\spring_junit\SpringJunit\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3224578846.index
+1406032509.index
+1544385657.index
+2101477497.index
+116055640.index
+1668183015.index
